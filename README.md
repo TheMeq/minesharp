@@ -1,3 +1,6 @@
+# minesharp
+A c# conversion of the bareiron system as a starting point
+
 # bareiron
 Minimalist Minecraft server for memory-restrictive embedded systems.
 
